@@ -2,13 +2,12 @@ Il teorema afferma che se un insieme è definito come l'intersezione di un numer
 ## Dimostrazione
 Per [[Definizione di poliedro]], $P=\{ x \in \mathbb{R} ^n : Ax\geq b \}$.
 
-Vogliamo dimostrare che ogni segmento generico 
+Vogliamo dimostrare che ogni segmento generico ([[Definizione di insieme convesso]])
 $$
-z=\beta x+(1-\beta)y \text{ ; } 0\leq \beta\leq 1
+\begin{align}
+z=\beta x+(1-\beta)y \text{ con } 0\leq \beta\leq 1 \text{ e } x,y \in P
+\end{align}
 $$
->[!note]+ Rappresentazione grafica di $z=\beta x+(1-\beta)y$
->![[segmento-parametrizzato.gif|600]]
-
 appartiene a $P$ ovvero soddisfa la relazione
 $$
 Az\geq b.
