@@ -23,4 +23,4 @@ $$
 
 e il numero di righe di $A$, $\alpha_i^T$ con $i \in I(\hat{x})$ (i vincoli attivi in $\hat{x}$), linearmente indipendenti, è maggiore rispetto al numero di righe di $A$, $\alpha_i^T$ con $i \in I(\tilde{x})$ (i vincoli attivi in $\tilde{x}$), che sono linearmente indipendenti.
 
-In altre parole, possiamo trovare un punto migliore che ottimizza ulteriormente la funzione obiettivo, attivando più vincoli.
+In altre parole, possiamo trovare un punto migliore ($\hat{x}$) che ottimizza ulteriormente la funzione obiettivo, attivando più vincoli.
