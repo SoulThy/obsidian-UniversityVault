@@ -10,7 +10,7 @@ Un problema di **Programmazione Lineare** e' caratterizzato da
 Introducendo le forme vettoriali e matriciali, e' possibile rappresentare un generico problema di programmazione lineare come: 
 $$
 \left\{\begin{array}{l}
-\min c^Tx\\ \\
+\min c^Tx\\
 Ax\geq b.
 \end{array}\right.
 $$
