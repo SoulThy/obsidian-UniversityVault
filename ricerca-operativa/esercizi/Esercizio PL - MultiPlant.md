@@ -1,6 +1,10 @@
-# Modelli multi-plant
+## [[Dispense_Modelli_multi-plant_multi-periodo.pdf]]
+*Un’industria manifatturiera possiede due impianti di produzione e fabbrica due tipi di prodotti $P_{1}$ e $P_{2}$ utilizzando due macchine utensili: una per la levigatura e una per la pulitura. Per avere un prodotto finito e' necessaria l’utilizzazione di entrambe le macchine. Il primo impianto ha una disponibilità massima settimanale di 80 ore della macchina per la levigatura e di 60 ore della macchina per la pulitura. Le disponibilità massime orarie delle due macchine nel secondo impianto sono rispettivamente di 60 e 75 ore settimanali. La tabella che segue riporta, per ciascun prodotto, il numero di ore di lavorazione necessarie su ciascuna macchina per ottenere un prodotto finito (poiché le macchine possedute dal secondo impianto sono piu' vecchie, i tempi di utilizzo sono maggiori)*
 
-## esempio 1 di modello multi-plant
+![[vincoli-esercizio-multiplant.png|500]]
+*Inoltre ciascuna unita' di prodotto utilizza 4 Kg di materiale grezzo. Il profitto netto ottenuto dalla vendita di una unita' di prodotto $P_{1}$ e $P_{2}$ e rispettivamente di 10$ e 15$.*
+- **a)** *Costruire un modello lineare che permetta di massimizzare il profitto complessivo ottenuto dalla vendita dei prodotti in ciascun impianto sapendo che settimanalmente l’industria dispone di 75 Kg di materiale grezzo nel primo impianto e di 45 Kg di materiale grezzo nel secondo impianto.*
+- **b)** *Costruire un modello lineare che permetta di massimizzare il profitto complessivo ottenuto dalla vendita dei prodotti supponendo che l’industria non allochi a priori 75 Kg di materiale grezzo nel primo impianto e di 45 Kg di materiale grezzo nel secondo impianto, ma lasci al modello la decisione di come ripartire tra i due impianti 120 Kg complessivi disponibili di questo materiale grezzo.*
 ### a) Problemi separati per i due impianti
 In questo caso, ogni impianto è trattato **indipendentemente**. Quindi, il primo impianto risolve il suo problema di ottimizzazione considerando i propri vincoli e risorse (materiali, macchinari, ore di lavoro, ecc.), e lo stesso fa il secondo impianto.
 
@@ -54,5 +58,3 @@ $$
 >L'unica risorsa condivisa nei due impianti e' il materiale grezzo *(disequazione n.1)*, infatti i vincoli relativi al tempo di lavorazione sono identici al **caso (a)**.
 >In particolare, la prima equazione $4(x1+x3)+4(x2+x4)≤120$ dice che la somma delle risorse usate in entrambi gli impianti non deve superare la quantità totale di materiale grezzo disponibile (120 unità). 
 >In altre parole, stiamo cercando di massimizzare il profitto combinato dei due impianti, **coordinando l'uso delle risorse**.
-
----
