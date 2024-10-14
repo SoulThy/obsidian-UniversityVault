@@ -3,7 +3,7 @@
 - **VETTURE** (*ID*, ID_PERS, TARGA, MODELLO, CV_FIS)
 - **PERSONE** (*ID*, COD_FIS, NOME, INDIRIZZO)
 - **POLIZZE** (*NUMERO*, ID_PERS, ID_VETTURA, DATA, RISCHIO,PREMIO)
-## Q1: Le vetture possedute da 'POLETTI' assicurate per RISCHIO = 'FURTO'
+# Q1: Le vetture possedute da 'POLETTI' assicurate per RISCHIO = 'FURTO'
 ![[schema-vetture-persone-polizze-Q1.svg#invert_B]]
 ```sql
 SELECT DISTINICT V.TARGA, V.MODELLO
