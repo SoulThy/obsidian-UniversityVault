@@ -1,4 +1,4 @@
-#basi-di-dati #date/2024-10-07
+#basi-di-dati
 # Structured Query Language
 In larga parte, e' un linguaggio non procedurale $\implies$ si specificano le proprietà dell'output senza specificare l'algoritmo da applicare.
 

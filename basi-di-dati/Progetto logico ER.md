@@ -1,4 +1,4 @@
-#basi-di-dati #date/2024-10-07
+#basi-di-dati
 Elenchiamo dei **passaggi di una metodologia** per tradurre correttamente un modello ER in un modello relazionale, identificando quando un'entità o una relazione debba diventare una tabella separata o essere fusa in una macroentità.
 L'obiettivo è **creare un modello logico** che possa essere implementato in un database, garantendo la normalizzazione, l'integrità dei dati, e la chiarezza della struttura.   
 

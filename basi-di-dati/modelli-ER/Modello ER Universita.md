@@ -1,4 +1,4 @@
-#basi-di-dati #date/2024-09-23 #esercizio
+#basi-di-dati #esercizio
 In questo esempio seguiamo la metodologia di progettazione descritta in [[Progetto logico ER]].
 ![[progetto-logico-unviersita.svg#invert_B]]
 ## Entità

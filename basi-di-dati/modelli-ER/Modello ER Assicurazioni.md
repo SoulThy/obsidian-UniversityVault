@@ -1,4 +1,4 @@
-#basi-di-dati #date/2024-10-07 #esercizio
+#basi-di-dati #esercizio
 In questo esempio seguiamo la metodologia di progettazione descritta in [[Progetto logico ER]].
 Viene richiesto di modellare una compagnia assicurativa tramite lo schema relazionale grafico.
 ## Bozza
