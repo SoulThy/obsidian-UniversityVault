@@ -25,21 +25,4 @@ In larga parte, e' un linguaggio non procedurale $\implies$ si specificano le pr
 >	FOREIGN KEY COD_CORSO REFERENCES CORSO(CODICE)
 >);
 > ```
-## KEYWORDS
-
-| Keyword      | Descrizione                                        |
-| ------------ | -------------------------------------------------- |
-| CREATE TABLE | https://www.w3schools.com/SQl/sql_create_table.asp |
-| PRIMARY KEY  | https://www.w3schools.com/SQl/sql_primarykey.asp   |
-| NOT NULL     | https://www.w3schools.com/SQl/sql_notnull.asp      |
-| UNIQUE       | https://www.w3schools.com/SQl/sql_unique.asp       |
-| REFERENCES   |                                                    |
-| FOREIGN KEY  |                                                    |
-## DATA TYPES
-
-| Type    | Descrizione |
-| ------- | ----------- |
-| CHAR    |             |
-| VARCHAR |             |
-| INT     |             |
 
