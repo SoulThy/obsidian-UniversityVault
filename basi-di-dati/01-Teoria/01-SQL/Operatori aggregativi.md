@@ -3,7 +3,6 @@ Gli operatori aggregativi in SQL vengono utilizzati per eseguire operazioni di c
 
 Esempi di utilizzo in diversi contesti:
 
-- [[SQL - Operatori aggregativi - STUDENTI]]
-- [[SQL - Operatori aggregativi - FATTURE]]
-- [[SQL - Operatori aggregativi - CORSI]]
-- [[SQL - Operatori aggregativi - POLIZZE]]
+- [[SQL - FATTURE]]
+- [[SQL - CORSI]]
+- [[SQL - POLIZZE]]

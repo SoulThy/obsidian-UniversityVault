@@ -5,4 +5,4 @@
 3) Svolgere le query direttamente dal sito
 
 > [!example] 
-> Esempio, prova con [[database-corsi.db]] che fa riferimento a [[SQL - Operatori aggregativi - CORSI]].
+> Esempio, prova con [[database-corsi.db]] che fa riferimento a [[SQL - CORSI]].
