@@ -1,0 +1,3 @@
+Per ogni [[Caratterizzazione di un problema di PL in forma standard|problema di PL in forma standard]], un punto ammissibile è un vertice se e solo se è una SBA.
+
+Questa corrispondenza biunivoca ci permette di prendere il [[Teorema fondamentale della PL]] e applicarlo per le soluzioni di base ammissibili (dove al posto di vertice leggeremo SBA) cosi ottenendo il [[Teorema fondamentale della PL riferito alle SBA]].

@@ -14,5 +14,10 @@ $$
 Ax\geq b.
 \end{array}\right.
 $$
+Dove: 
+- $c$ è il vettore dei costi, 
+- $A$ è la matrice dei coefficienti dei vincoli, 
+- $b$ è il vettore dei termini noti, 
+- $x$ è il vettore delle variabili.
 
-
+>Per la versione in forma standard, fare riferimento a [[Caratterizzazione di un problema di PL in forma standard]].
