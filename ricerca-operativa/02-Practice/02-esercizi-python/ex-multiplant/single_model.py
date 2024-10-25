@@ -7,7 +7,6 @@ kgPerProdotto = 4 # Per produrre un unita di P1/P2 servono 4kg di materiale
 prezzi = np.loadtxt("prezzi_prodotti.txt")
 oreDispMacchine = np.loadtxt("disponibilita_macchine_impianti.txt")
 orePerProdotto = np.loadtxt("tempi_macchina_impianti.txt")
-print(orePerProdotto)
 modello = gp.Model()
 
 x = np.empty((n), dtype = gp.Var)
