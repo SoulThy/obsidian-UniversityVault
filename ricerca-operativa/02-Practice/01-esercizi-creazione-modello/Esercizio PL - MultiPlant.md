@@ -58,3 +58,7 @@ $$
 >L'unica risorsa condivisa nei due impianti e' il materiale grezzo *(disequazione n.1)*, infatti i vincoli relativi al tempo di lavorazione sono identici al **caso (a)**.
 >In particolare, la prima equazione $4(x1+x3)+4(x2+x4)≤120$ dice che la somma delle risorse usate in entrambi gli impianti non deve superare la quantità totale di materiale grezzo disponibile (120 unità). 
 >In altre parole, stiamo cercando di massimizzare il profitto combinato dei due impianti, **coordinando l'uso delle risorse**.
+
+
+> [!Note] Per la soluzione in python della parte b) vedere:
+> [[single_model.py]]
