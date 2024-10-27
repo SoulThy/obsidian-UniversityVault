@@ -78,3 +78,7 @@ $$
 $$
 \sum_{j=1}^{3} x_{1j}\geq 0.1\left( \sum_{i=1}^{6} \sum_{j=3}^{3} x_{ij} \right)
 $$
+
+
+> [!note]
+> Soluzione python parte1 : [[parte1.py]]
