@@ -1,0 +1,1 @@
+`EXISTS` restituisce **vero** se la sotto-query produce **anche solo una riga**, e **falso** se la sotto-query è vuota (non restituisce nessuna riga).
