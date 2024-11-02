@@ -11,7 +11,7 @@ x_{1},x_{2},x_{3},x_{4}\geq 0
 $$
 $$
 A=\begin{pmatrix}
-1 & -1 & 0 & 4 \\
+1 & -1 & 0 & 2 \\
 0 & -2 & 1 & -4
 \end{pmatrix};B=\begin{pmatrix}
 4 \\
