@@ -9,7 +9,7 @@ Ax \geq b
 \end{align}
 $$
 Supponiamo che P non contenga rette (^[[[Relazione di un poliedro contenente una retta]]]). Allora **una e una sola** delle seguenti opzioni è vera:
-1. $P = 0$ (Poliedro vuoto, ovvero problema inammissibile)
+1. $P = 0$ (Poliedro vuoto, ovvero [[Definizione di problema inammissibile|problema inammissibile]])
 2. Il problema è illimitato inferiormente
 3. Il problema ammette soluzioni ottime e almeno una è un vertice di $P$.
 ## Dimostrazione
