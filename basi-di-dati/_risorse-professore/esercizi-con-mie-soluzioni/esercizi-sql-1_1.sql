@@ -34,7 +34,14 @@ FROM studente S, corso C
 WHERE C.denominazione = 'Documentazione Automatica'
     AND C.cod_prof = S.id_relatore
 
+-- c1] L'elenco dei professori che hanno per tesisti studenti che hanno fatto almeno un esame con Parisi (Parisi inteso come professore)
 
+SELECT P.*
+FROM professori P, professori PP, studenti S, esami E
+WHERE PP.nome = 'Parisi'
+AND P.cod_fiscale = S.id_relatore
+AND S.matricola = E.matr_stud
+AND E.cod_prof = PP.cod_fiscale
 
 
 
