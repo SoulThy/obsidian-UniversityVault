@@ -8,3 +8,7 @@ FROM table1
 JOIN table2  
 ON  table1.matching_column = table2.matching_column;
 ```
+
+# Ulteriori tipi di JOIN
+- [[LEFT JOIN]]
+- [[RIGHT JOIN]]
