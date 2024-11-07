@@ -1,5 +1,4 @@
 Esercizio che fa riferimento a [[olive_testo.pdf]].
-
 Dove ho associato ai vari attributi le seguenti lettere:
 
 | Prezzo  | Quantita Min | Quantita Max | Resa    | Acidita | Ore Max Reparto | Ore necessarie per lavorare 100kg di olive $i$ nel reparto $j$ |
@@ -81,4 +80,4 @@ $$
 
 
 > [!note]
-> Soluzione python parte1 : [[parte1.py]]
+> Soluzione python parte 1 : [[parte1.py]]

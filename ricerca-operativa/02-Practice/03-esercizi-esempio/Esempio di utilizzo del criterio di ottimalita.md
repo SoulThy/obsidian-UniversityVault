@@ -1,4 +1,4 @@
->In questo esercizio vogliamo stabilire una soluzione di base ottimale tramite l'utilizzo del [[Metodo del simplesso#Criterio sufficiente di ottimalità|criterio sufficiente di ottimalità]].
+>In questo esercizio vogliamo stabilire una soluzione di base ottimale tramite l'utilizzo del [[~) Introduzione al metodo del simplesso#Criterio sufficiente di ottimalità|criterio sufficiente di ottimalità]].
 
 Vogliamo quindi trovare una [[Soluzione di base (SB)|SBA]] e verificare se il vettore dei coefficienti di costo ridotto $\hat{c}_{N}^T=c_{N}^T-c_{B}^TA_{B}^{-1}A_{N}$ risulta essere non negativo, se cosi fosse il criterio ci garantisce che la SBA trovata e' ottimale.
 $$

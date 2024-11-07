@@ -1,0 +1,1 @@
+Se il problema di PL ammette soluzione ottima $\implies$esiste almeno una [[Soluzione di base (SB)#Soluzione di Base Ammissibile (SBA)|SBA]] che ha i coefficienti di costo ridotto maggiori o uguali a zero.

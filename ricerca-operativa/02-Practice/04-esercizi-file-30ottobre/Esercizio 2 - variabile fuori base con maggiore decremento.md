@@ -1,7 +1,7 @@
 Fa riferimento all'esercizio numero 2 all'interno del file [[esercizi30ottobre.pdf]].
 
 Dobbiamo determinare la variabile fuori base che comporta il maggior decremento entrando in base.
-Ricordiamo che vale
+Ricordiamo da [[Fase 2 - Criterio sufficiente di illimitatezza]] vale
 $$
 f(\tilde{x})=f(\bar{x})+\hat{c}_{j}\delta
 $$

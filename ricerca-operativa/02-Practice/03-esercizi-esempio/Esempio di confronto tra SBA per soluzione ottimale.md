@@ -45,4 +45,4 @@ Adesso dovremmo provare con le tutte le altre scelte di indici delle matrici $B$
 
 Per ogni SBA che troviamo in questo modo, dovremmo sostituirla all'interno della funzione obiettivo e verificare la "migliore" per confronto.
 
-Capiamo che per grandi valori di $n$ ed $m$ questo metodo diventa improponibile. Sara' quindi utile trovare un criterio per stabilire velocemente se una **SBA** risulta essere soluzione ottimale senza doverla confrontare con le altre ([[Metodo del simplesso]]).
+Capiamo che per grandi valori di $n$ ed $m$ questo metodo diventa improponibile. Sara' quindi utile trovare un criterio per stabilire velocemente se una **SBA** risulta essere soluzione ottimale senza doverla confrontare con le altre ([[~) Introduzione al metodo del simplesso]]).

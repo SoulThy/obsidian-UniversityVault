@@ -1,9 +1,10 @@
 # Traccia
-Definire un esempio numerico con $n=5$ e $m=3$ in cui da una SBA non degenere si passa, con un'iterazione della fase 2, a una SBA degenere.
+Definire un esempio numerico con $n=5$ e $m=3$ in cui da una [[Soluzione di base (SB)#Soluzione di Base Ammissibile (SBA)|SBA]] non degenere si passa, con un'iterazione della fase 2, a una SBA degenere.
 Ossia dobbiamo definire $B,N,A_{B}^{-1}b,A_{B}^{-1}A_{N},\hat{c}_{N}^T$.
 
 ---
 # Soluzione
+^[Per la teoria guardare [[Fase 2 - Operazione di pivot]]]
 Dato che $n=5$ e $m = 3$ e ricordando che la dimensione di $B$ e' $m$ e la dimensione di $N$ e' $n-m$, possiamo subito definire le matrici $B$ ed $N$, per esempio:
 $$
 B=\{ 1,2,3 \};N=\{ 4,5 \}

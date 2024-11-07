@@ -3,7 +3,7 @@
 $$
 \text{ Il poliedro non ha vertici}\iff \text{Il poliedro contiene una retta}
 $$
-## Esempio di un poliedro senza vertici
+## Esempio di un [[Definizione di poliedro|poliedro]] senza vertici
 Il poliedro e' composto da due rette parallele, dato che non si intersecano non otteniamo un vertice.
 ![[poliedrosenzavertici.svg#invert_B]]
 >[!warning]
