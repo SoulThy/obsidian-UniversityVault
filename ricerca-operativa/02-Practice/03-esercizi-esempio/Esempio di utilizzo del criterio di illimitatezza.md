@@ -1,4 +1,4 @@
->In questo esempio vogliamo sfruttare il [[~) Introduzione al metodo del simplesso#Criterio sufficiente di illimitatezza|criterio sufficiente di illimitatezza]] per verificare che il nostro problema risulti illimitato inferiormente. 
+>In questo esempio vogliamo sfruttare il [[~ Metodo del simplesso#Criterio sufficiente di illimitatezza|criterio sufficiente di illimitatezza]] per verificare che il nostro problema risulti illimitato inferiormente. 
 >Quindi verificheremo che il criterio di ottimalita' non sia soddisfatto poi calcoleremo $y=-A_{B}^{-1}A_{j}$ e controlleremo se tutte le sue componenti sono non negative.
 
 $$
