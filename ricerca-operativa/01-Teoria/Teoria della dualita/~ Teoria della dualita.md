@@ -31,4 +31,4 @@ $$
 ## Collegamenti
 - [[Rilassamento]]
 - [[Rilassamento lagrangiano]]
-- [[Dualità lineare]]
+- [[Dualita lineare]]

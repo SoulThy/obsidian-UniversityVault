@@ -1,4 +1,4 @@
->La dualita' lineare ci dice che qualsiasi problema di PL puo' essere trasformato in uno equivalente in forma standard del quale possiamo definire il [[~ Teoria della dualita|duale]].
+>La dualità lineare ci dice che qualsiasi problema di PL può essere trasformato in uno equivalente in forma standard del quale possiamo definire il [[~ Teoria della dualita|duale]].
 
 Dato un [[Caratterizzazione di un problema di PL in forma standard|problema di PL in forma standard]] il suo duale e' 
 $$
