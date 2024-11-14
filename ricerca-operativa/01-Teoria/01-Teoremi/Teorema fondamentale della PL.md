@@ -1,5 +1,4 @@
-#ricerca-operativa #date/2024-10-09 
-Questo è un importantissimo teorema che ci dà un'idea di dove vanno cercate le soluzioni di programmazione lineare.`
+>*Questo è un importantissimo teorema che ci dà un'idea di dove vanno cercate le soluzioni di programmazione lineare.*`
 ## Teorema
 Prendiamo un problema di programmazione lineare.
 $$

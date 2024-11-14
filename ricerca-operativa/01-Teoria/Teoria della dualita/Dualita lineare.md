@@ -9,4 +9,4 @@ $$
 $$
 
 > [!example]- Esempio di costruzione del duale
-> ![[Esempio di costruzione del duale]]
+> ![[Esempio di costruzione del duale partendo da forma standard]]
