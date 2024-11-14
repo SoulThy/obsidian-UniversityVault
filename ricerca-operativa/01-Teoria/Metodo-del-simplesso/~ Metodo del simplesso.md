@@ -13,9 +13,9 @@ I punti focali per la Fase 1 sono i seguenti:
 - Se il problema originario non risulta essere vuoto, possiamo ricavare una SBA di partenza per esso.
 
 Approfondimenti:
-- [[Fase 1 - Problema ausiliario]]
-- [[Fase 1 - Teoremi e condizioni]]
-- [[Fase 1 - Far partire la fase 2]]
+- [[Problema ausiliario]]
+- [[Teoremi e condizioni]]
+- [[Far partire la fase 2]]
 
 ### Riassuntone + scambio degenere
 Sfruttando tutte le proposizioni ottenute dagli "Approfondimenti" possiamo dire:
@@ -28,13 +28,13 @@ Sfruttando tutte le proposizioni ottenute dagli "Approfondimenti" possiamo dire:
 ## Fase 2
 A partire dalla soluzione di base ammissibile ottenuta dalla *Fase 1*, visitiamo altre SBA fino a determinare una soluzione ottima del problema. In alternativa, durante il processo, potrebbe emergere che ci troviamo in un caso di [[Definizione di problema illimitato (inferiormente)|problema illimitato]].
 Vediamo quindi i seguenti criteri: 
-- [[Fase 2 - Criterio sufficiente di ottimalita]]: ci permettera' di stabilire se una SBA e' ottimale, ossia soluzione del problema.
-- [[Fase 2 - Criterio sufficiente di illimitatezza]]: ci permettera' di stabilire se il problema risulta essere illimitato
+- [[Criterio sufficiente di ottimalita]]: ci permettera' di stabilire se una SBA e' ottimale, ossia soluzione del problema.
+- [[Criterio sufficiente di illimitatezza]]: ci permettera' di stabilire se il problema risulta essere illimitato
 
 > [!example]- Esempio di ricerca tramite "forza bruta" della soluzione ottima.
 > ![[Esempio di confronto tra SBA per soluzione ottimale]]
 
-Tramite [[Fase 2 - Operazione di pivot]] possiamo iterare le SBA per trovare quella ottimale aiutandoci con i criteri precedentemente definiti.
+Tramite [[Operazione di pivot]] possiamo iterare le SBA per trovare quella ottimale aiutandoci con i criteri precedentemente definiti.
 
 ## Esempi metodo del simplesso
 
