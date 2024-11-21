@@ -45,3 +45,7 @@ $$
 $$ 
 x_{1}, x_{2}, x_{3}, x_{4}, x_{5} \geq 0 
 $$
+
+
+> [!info] Soluzione in python
+> [[main.py]]
