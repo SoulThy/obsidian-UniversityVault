@@ -5,5 +5,5 @@ FROM uffici U
     JOIN afferenze A ON A.id_uff = U.id
     JOIN dipendenti D ON D.cf = A.cf_dip
 WHERE D.nome = 'Sandro Bianchi'
-AND A.giorno_inizio >= '2019-01-15'
-AND (A.giorno_fine <= '2019-19-15' OR A.giorno_fine IS NULL);
+AND A.giorno_inizio <= '2019-01-15'
+AND (A.giorno_fine >= '2019-19-15' OR A.giorno_fine IS NULL);
