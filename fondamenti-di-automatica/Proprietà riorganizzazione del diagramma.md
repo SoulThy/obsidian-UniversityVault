@@ -1,0 +1,1 @@
+![[proprieta-rioragnizzazione-diagramma.png]]
