@@ -1,5 +1,5 @@
 # Enunciato
-Ci dice che se uno dei due problemi (primale, duale) ammette soluzione ottima allora anche l'altro problema ammette soluzione ottima e quindi il [[Gap di dualità]] e' nullo.
+Ci dice che se uno dei due problemi (primale, duale) ammette soluzione ottima allora anche l'altro problema ammette soluzione ottima e quindi il [[Gap di dualità]] e' nullo e le due soluzioni coincidono.
 # Richiami utili per la dimostrazione
 Dato un problema in forma standard con $\hat{x}$ soluzione ottima del problema allora per il [[Teorema fondamentale della PL riferito alle SBA]] esiste una SBA $x^*$ che e' soluzione ottima del problema.
 E possiamo anche dire che esiste una SBA che chiamiamo $\bar{x}$ che e' soluzione ottima del problema ed e' tale che $\hat{c}_{N}^T\geq 0^T$ ([[Relazione tra soluzione ottima e vettore costi ridotti]])
