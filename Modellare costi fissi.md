@@ -1,0 +1,1 @@
+![[modelli_costofisso_scorte_location_PLI.pdf]]
