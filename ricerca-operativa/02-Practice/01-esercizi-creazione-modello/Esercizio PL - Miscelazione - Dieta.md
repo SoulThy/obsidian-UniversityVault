@@ -48,4 +48,4 @@ $$
 
 
 > [!info] Soluzione in python
-> [[main.py]]
+> [[ricerca-operativa/02-Practice/esonero-1/main.py]]
