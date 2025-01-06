@@ -21,7 +21,7 @@ Approfondimenti:
 Sfruttando tutte le proposizioni ottenute dagli "Approfondimenti" possiamo dire:
 - Se $z^* >0 \implies$ problema originario ha insieme ammissibile vuoto
 - Se $z^* = 0 \implies \alpha^* = 0$
-	- Se tutte le variabili $\alpha$ sono uscite dalla base $\implies$ e' disponibile una SBA del problema originario $x^* = \begin{pmatrix}Ab^{-1}b\\ 0\end{pmatrix}$
+	- Se tutte le variabili $\alpha$ sono uscite dalla base $\implies$ e' disponibile una SBA del problema originario $x^* = \begin{pmatrix}A_{B}^{-1}b\\ 0\end{pmatrix}$
 	- Se qualche variabile $\alpha_{i}^*$ e' rimasta in base $\implies$ SBA degenere del problema ausiliario
 		- Svogliamo uno scambio degenere in cui proviamo a far entrare in base variabili originarie al posto di variabili ausiliarie. Di fatto stiamo rappresentando sempre lo stesso punto ma stiamo cercando di ottenere una soluzione di base non degenere. Certe volte questo e' impossibile.
 		- Se lo scambio degenere e' impossibile, la riga corrispondente alla variabile artificiale rimasta in base e' combinazione lineare delle altre e qiundi puo' essere eliminata.
