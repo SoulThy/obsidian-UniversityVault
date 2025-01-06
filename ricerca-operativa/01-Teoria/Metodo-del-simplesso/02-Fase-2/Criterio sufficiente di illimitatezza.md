@@ -1,4 +1,3 @@
-# Criterio sufficiente di illimitatezza
 Sia $\bar{x}$ una SBA e supponiamo che il criterio di ottimalita' non sia soddisfatto $\implies$ esiste almeno un coefficiente di costo ridotto
 $$
 \hat{c}_{j}<0\quad j \in N

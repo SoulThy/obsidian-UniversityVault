@@ -1,5 +1,3 @@
-# Criterio sufficiente di ottimalità
-
 Sia $\bar{x}$ una SBA ossia $\bar{x}_{B}=A_{B}^{-1}b$ e $\bar{x}_{N}=0$ e dato il [[Caratterizzazione di un problema di PL in forma standard|problema in forma standard]]:
 $$
 \begin{align}
