@@ -19,7 +19,7 @@ l'idea e' quella di minimizzare la funzione obiettivo che risulta composta dalla
 > [!example]- Esempio di passaggio al problema ausiliario
 > ![[Esempio di passaggio al problema ausiliario]]
 
-Avendo allargato il nostro problema adesso un generico vettore formato dalle componenti del problema risultera' essere della forma $\begin{pmatrix}x\\\alpha\end{pmatrix}$.
+Avendo allargato il nostro problema, adesso un generico vettore formato dalle componenti del problema risultera' essere della forma $\begin{pmatrix}x\\\alpha\end{pmatrix}$.
 # Il problema ausiliario ammette sempre soluzione ottima
 Adesso verifichiamo se il problema ausiliario verifica sempre soluzione ottima, per fare determinare cio' seguiremo il [[Teorema fondamentale della PL riferito alle SBA]].
 1. Il problema ausiliario ha insieme ammissibile vuoto? 

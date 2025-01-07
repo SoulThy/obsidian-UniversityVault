@@ -5,8 +5,8 @@ Svogliamo l'operazione di pivot se sappiamo che la SBA $\bar{x}$ su cui ci trovi
 $$
 \exists j\in N:\hat{c}_{j}<0 \quad \text{ e }\quad y=-A_{B}^{-1}A_{j}< 0
 $$
-L'idea e' simile a quella del [[#Criterio sufficiente di illimitatezza]], vogliamo spostarci da $\bar{x}$ in modo tale da essere certi di migliorare la funzione obiettivo arrivando ad una nuova SBA $\tilde{x}$.
-Seguendo gli stessi passaggi descritti per il [[#Criterio sufficiente di illimitatezza]], arriviamo a dire:
+L'idea e' simile a quella del [[Criterio sufficiente di illimitatezza]], vogliamo spostarci da $\bar{x}$ in modo tale da essere certi di migliorare la funzione obiettivo arrivando ad una nuova SBA $\tilde{x}$.
+Seguendo gli stessi passaggi descritti per il [[Criterio sufficiente di illimitatezza]], arriviamo a dire:
 $$
 \tilde{x}=\bar{x}+\delta \begin{pmatrix}
 y \\
