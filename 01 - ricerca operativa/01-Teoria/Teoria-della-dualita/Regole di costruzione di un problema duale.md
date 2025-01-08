@@ -1,4 +1,4 @@
-Per problemi di [[Caratterizzazione di un problema di PL|PL]] valgono le seguenti regole per il passaggio al [[~ Teoria della dualita||problema duale]].
+Per problemi di [[Caratterizzazione di un problema di PL|PL]] valgono le seguenti regole per il passaggio al [[~ Teoria della dualita|problema duale]].
 Se il mio problema e' di minimo, il duale sara' di massimo.
 - vincolo del primale $\geq 0 \to \lambda\geq 0$ vincolata in segno
 - vincolo del primale $=$ ossia attivo $\to \lambda$ non vincolata in segno

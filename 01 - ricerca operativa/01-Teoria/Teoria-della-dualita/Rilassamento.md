@@ -1,5 +1,3 @@
-# Rilassamento
-
 Dato un problema di ottimizzazione (I) nella forma:
 $$
 \min f(x) \quad \text{soggetto a} \quad x \in A

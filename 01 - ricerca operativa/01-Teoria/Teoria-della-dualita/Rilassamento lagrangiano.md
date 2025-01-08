@@ -20,3 +20,6 @@ Notare che questo rispetta la definizione di rilassamento, l'insieme ammissibile
 $$
 f(x)-\lambda^Tg(x) \leq f(x) \quad \forall x \in S;g(x)\geq 0
 $$
+
+## Collegamenti
+- [[Rilassamento lagrangiano in PL]]

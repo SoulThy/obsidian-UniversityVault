@@ -5,4 +5,4 @@ $$
 x \in F
 \end{align}
 $$
-si dice **inammissibile** se l'insieme ammissibile $F=\{ 0 \}$, cioè se non esistono soluzioni ammissibili.
+si dice **inammissibile** se l'insieme ammissibile risulta essere $F=\{ \emptyset  \}$, cioè se non esistono soluzioni ammissibili.
