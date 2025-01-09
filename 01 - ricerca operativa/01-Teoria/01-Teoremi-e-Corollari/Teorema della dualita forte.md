@@ -24,7 +24,7 @@ $$
 \bar{\lambda}^T\begin{pmatrix}
 A_{B} & A_{N}
 \end{pmatrix}\leq \begin{pmatrix}
-C_{B} & C_{N}
+c_{B} & c_{N}
 \end{pmatrix}^T.
 $$
 stiamo quindi chiedendo che 

@@ -134,4 +134,3 @@ $$
 > \end{pmatrix}
 > $$
 > Notiamo che otteniamo la stessa SBA per entrambi i casi, solo che per il primo caso il criterio non "individua" il fatto che si tratti di una soluzione ottimale. Questo perché il criterio non e' condizione necessaria per SBA degeneri.
-

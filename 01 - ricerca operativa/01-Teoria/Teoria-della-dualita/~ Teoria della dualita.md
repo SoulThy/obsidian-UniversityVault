@@ -27,8 +27,16 @@ $$
 x \in S ; u \in U
 \end{align}
 $$
-
 ## Collegamenti
 - [[Rilassamento]]
 - [[Rilassamento lagrangiano]]
+- [[Rilassamento lagrangiano in PL]]
 - [[Dualita lineare]]
+- [[Regole di costruzione di un problema duale]]
+- [[Teorema della dualita debole]]
+- [[Corollario della dualità debole]]
+- [[Teorema della dualita forte]]
+- [[Condizioni di ottimalita nella PL]]
+- [[Relazione problema primale-duale illimitato e insieme ammissibile vuoto]]
+- [[Teorema degli scarti complementari]]
+- [[Tabella riassuntiva di risultati possibili della dualita in PL]]

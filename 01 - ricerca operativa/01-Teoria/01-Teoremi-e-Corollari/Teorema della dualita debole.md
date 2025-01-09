@@ -16,5 +16,3 @@ $$
 \lambda^TAx\leq c^Tx \implies c^Tx \geq b^T\lambda
 $$
 questo risulta sempre vero essendo $x\geq 0$, cosi dimostrando il nostro enunciato.
-
-
