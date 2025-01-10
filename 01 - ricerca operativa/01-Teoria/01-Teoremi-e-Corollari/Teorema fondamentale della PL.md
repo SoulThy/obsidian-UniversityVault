@@ -18,7 +18,7 @@ Supponiamo di avere $P$ non vuoto e che il problema non sia illimitato inferiorm
 Se $P$ è costituito da un solo punto $\bar{x}$, ovvero $P = \{\bar{x}\}$, allora $\bar{x}$ è un vertice (perché per definizione di vertice non possiamo trovare altri due punti ^[[[Definizione di vertice]]]).  
 $\bar{x}$ è anche la soluzione del problema, infatti soddisfa la definizione di soluzione: $f(\bar{x}) \leq f(x)$ per ogni $x \in P$.
 
-Consideriamo ora il caso in cui $P$ contenga infiniti punti. Per il [[Lemma del Miglioramento della Soluzione in PL]], che possiamo applicare poiché per ipotesi $P \neq \{0\}$, $P$ non contiene rette e il problema non è illimitato inferiormente, presa $\tilde{x} \in P$ non vertice, posso trovare $\hat{x} \in P$ tale che $c^T \hat{x} \leq c^T \tilde{x}$ (ossia che migliora la funzione obiettivo) e che abbia più vincoli attivi linearmente indipendenti di $\tilde{x}$.
+Consideriamo ora il caso in cui $P$ contenga infiniti punti. Per il [[Lemma del Miglioramento della Soluzione in PL]], che possiamo applicare poiché per ipotesi $P \neq \{0\}$, $P$ non contiene rette e il problema non è illimitato inferiormente, presa $\tilde{x} \in P$ non vertice, posso trovare $\hat{x} \in P$ tale che $c^T \hat{x} \leq c^T \tilde{x}$ (ossia che non peggiora la funzione obiettivo) e che abbia più vincoli attivi linearmente indipendenti di $\tilde{x}$.
 Potrebbero verificarsi due casi:
 
 1. $\hat{x}$ è un vertice

@@ -5,7 +5,7 @@ Dato un problema in forma standard con $\hat{x}$ soluzione ottima del problema a
 E possiamo anche dire che esiste una SBA che chiamiamo $\bar{x}$ che e' soluzione ottima del problema ed e' tale che $\hat{c}_{N}^T\geq 0^T$ ([[Relazione tra soluzione ottima e vettore costi ridotti]])
 # Dimostrazione
 Senza perdita di generalità prendiamo un problema di PL in forma standard con il suo corrispettivo duale. ([[Dualita lineare]]).
-Supponiamo per ipotesi che il problema ammette soluzione ottima $\hat{x}$, per i richiami precedenti, esiste quindi una SBA ottima $\bar{x}$ e tale che $\hat{c}_{N}^T=c_{N}^T-c_{B}^TA_{B}^{-1}A_{N}\geq 0$.
+Supponiamo per ipotesi che il problema ammette soluzione ottima, per i richiami precedenti, esiste quindi una SBA ottima $\bar{x}$ e tale che $\hat{c}_{N}^T=c_{N}^T-c_{B}^TA_{B}^{-1}A_{N}\geq 0$.
 Inoltre la sua funzione obiettivo risulta essere $c^T\bar{x}=c_{B}^TA_{B}^{-1}b$, in quanto essendo una SBA i costi corrispettivi alle componenti fuori base si annulleranno.
 
 Prendiamo $\bar{\lambda}^T=c_{B}^TA_{B}^{-1}$.

@@ -13,7 +13,7 @@ $$
 P = \{x \in \mathbb{R}^n : Ax \geq b\}
 $$
 
-dove $P$ è non vuoto e non contiene rette ^[[[Relazione di un poliedro contenente una retta]]]. Supponiamo inoltre che il problema non sia limitato inferiormente.
+dove $P$ è non vuoto e non contiene rette ^[[[Relazione di un poliedro contenente una retta]]]. Supponiamo inoltre che il problema non sia illimitato inferiormente.
 
 Se $\tilde{x} \in P$ non è un vertice, allora esiste un punto $\hat{x} \in P$ tale che:
 
