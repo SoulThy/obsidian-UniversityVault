@@ -11,7 +11,9 @@ Tuttavia per ottenere il margine di fase preciso utilizziamo i diagrammi di Bode
 
 $m_\varphi = fase_{reale}+\pi$﻿
 
-Importante! se $m_\varphi $﻿ e’ negativo significa che mancano quel numero di gradi/radianti ruotando in senso antiorario per arrivare a $-\pi$﻿.
+
+> [!tip]
+Importante! se $m_\varphi$﻿ e’ negativo significa che mancano quel numero di gradi/radianti ruotando in senso antiorario per arrivare a $-\pi$﻿.
 
 ![[image 8.png]]
 

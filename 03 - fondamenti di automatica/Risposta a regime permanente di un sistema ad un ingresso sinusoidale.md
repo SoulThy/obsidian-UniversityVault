@@ -4,6 +4,6 @@
 
 $y_{rif} = sin(\bar \omega t)$﻿
 
-$y_{rp} = |W(j\bar \omega)|sin(\bar \omega t + \phase W(j\bar \omega))$﻿
+$y_{rp} = |W(j\bar \omega)|sin(\bar \omega t + \varphi( W(j\bar \omega))$﻿
 
-$e_{rp} = |W_e(j\bar \omega)|sin(\bar \omega t + \phase W_e(j\bar \omega))$﻿
+$e_{rp} = |W_e(j\bar \omega)|sin(\bar \omega t + \varphi( W_e(j\bar \omega))$﻿

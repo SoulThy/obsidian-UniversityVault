@@ -2,7 +2,7 @@
 
 Per un ingresso sinusoidale l’errore a regime e’ della forma:
 
-$e_{rp} = |W_e(j\bar \omega)|sin(\bar \omega t + \phase W_e(j\bar \omega))$﻿
+$e_{rp} = |W_e(j\bar \omega)|sin(\bar \omega t + \varphi( W_e(j\bar \omega))$﻿
 
 Dato che l’errore lo leggiamo dal modulo di $e_{rp}$﻿ e non dalla sua fase, vogliamo:
 
