@@ -50,9 +50,9 @@ Dove $1/p = \tau$﻿ costante di tempo. Ricordiamo che il concetto di costate di
 Troviamo cosi una correlazione tra velocita’ di convergenza del transitorio e posizione del polo.
 
 Esempio: voglio una velocita di convergenza pari a $6\text{ secondi}$﻿, quindi
-
-$ ⁍ $
-
+$$
+\tau = t/3=6/3=2 \implies p=1/\tau=1/2
+$$
 quindi per tutti i poli $\leq1/2$﻿ ho una velocita di convergenza $\leq6 \text{ secondi}$﻿.
 
 Tramite il luogo delle radici se vogliamo trovare i $k$﻿ che soddisfano tale specifica ci bastera’ applicare al polinomio traslato $p(k,s-\alpha)$﻿.

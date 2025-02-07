@@ -6,8 +6,10 @@ Possiamo valutarla in frequenza analizzando il diagramma di Bode, basta prendere
 
 In questo modo otteniamo $M_r|_{dB}$﻿.
 
+Per come ottenere il Modulo alla risonanza tramite i grafici di Nichols vedere: [[Determinare il modulo alla risonanza tramite i grafici di Nichols]]
 ## Relazione sovra elongazione e modulo alla risonanza
 
 $\frac{1+\hat s}{M_r} \simeq0.85$
 
-Attenzione! Il modulo alla risonanza NON e’ in dB nella formula.
+> [!warning]
+> Attenzione! Il modulo alla risonanza **NON** e’ in dB nella formula.
