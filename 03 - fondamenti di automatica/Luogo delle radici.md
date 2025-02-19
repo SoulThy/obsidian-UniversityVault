@@ -43,7 +43,7 @@ Consiglio! Se ci interessa la stabilita’, ci conviene posizionare un $z_c$﻿ 
 
 ### Condizione sulla velocita di convergenza del transitorio
 
-Data $F(s)=k\frac{1}{s+p}\rightarrow Re^{pt}\rightarrow Re^{-\frac{t}{1/p}}$﻿
+Data $F(s)=k\frac{1}{s+p}\rightarrow Re^{-pt}\rightarrow Re^{-\frac{t}{1/p}}$﻿
 
 Dove $1/p = \tau$﻿ costante di tempo. Ricordiamo che il concetto di costate di tempo e’ utile in quanto possiamo sfruttare l’approsimazione per cui se $t=3\tau\implies e^{-\frac{t}{1/p}}=0.0\cdots\simeq 0$﻿.
 
