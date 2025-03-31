@@ -5,4 +5,8 @@ tags:
 cssclasses:
 ---
 ## Homework4 soluzione esercizio 2
-![[homework4-eser2.jpg]]
+
+> [!Warning] Attenzione!
+> Qui ho utilizzato i bus MDR, DATA_IN,DATA_OUT,DATA da 4 byte. 
+
+![[homework4-esercizio2.png]]
