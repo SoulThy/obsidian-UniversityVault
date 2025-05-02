@@ -1,7 +1,7 @@
 ---
 date: 2025-03-26
 tags:
-  - reti-e-sistemi-operativi
+  - elettronica-digitale
 cssclasses:
 ---
 ## Homework4 soluzione esercizio 2

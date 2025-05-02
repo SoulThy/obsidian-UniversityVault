@@ -1,6 +1,7 @@
 ---
 date: 2025-03-21
 tags:
+  - elettronica-digitale
 cssclasses:
 ---
 ## Disegno contatore
