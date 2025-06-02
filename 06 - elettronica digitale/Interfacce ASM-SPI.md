@@ -14,7 +14,7 @@ I parametri che trasmettitore e ricevitore devono stabilire a priori sono la vel
 Il vantaggio di UART sta nella sua semplicità di utilizzo e numero ridotto di fili. Tuttavia non consente la comunicazione con piu' dispositivi tramite lo stesso bus. 
 
 > [!example]- ASM UART
-![[UART_drawio.pdf]]
+![[ASM_UART.drawio.pdf]]
 ## SPI
 
 Serial peripheral interface (SPI), e' un protocollo di comunicazione seriale sincrona, cioè utilizza un clock condiviso tra trasmettitore e ricevitore.
@@ -40,4 +40,4 @@ In caso di **più dispositivi**, quelli non selezionati devono **rilasciare il b
 ### ASM SPI
 
 > [!example]- ASM SPI
-> ![[ASM_SPI.png]]
+> ![[ASM_SPI.drawio.pdf]]
