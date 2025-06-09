@@ -9,3 +9,6 @@
 ---
 
 **Nota:** Obsidian è un'applicazione gratuita per prendere appunti in formato Markdown. Puoi scaricarla da [https://obsidian.md/](https://obsidian.md/).
+
+### Attenzione possibili errori!
+Essendo questo il vault in cui prendo una porzione degli appunti universitari e' possibile e probabile che qualche cosa non sia corretta! Se trovi qualche cavolata scritta in giro fai una pull request, thanks bro ;)
